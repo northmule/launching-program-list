@@ -1,0 +1,41 @@
+[
+  {
+    "sortIndex": 1,
+    "path": "/usr/bin/kate",
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "sortIndex": 2,
+    "path": "/snap/bin/telegram-desktop",
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "sortIndex": 3,
+    "path": "/usr/bin/skypeforlinux",
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]
